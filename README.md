@@ -8,6 +8,12 @@
   ![Audio Effects & Synthesis](https://img.shields.io/badge/Audio-Effects%20%26%20Synthesis-green?style=flat)
 </div>
 
+## ⚠️ **EXPERIMENTAL LIBRARY - FOR LAB/PERSONAL USE** ⚠️
+
+This is an experimental library under active development. It is
+intended for research, learning, and personal projects. The API is subject
+to change!
+
 **Digital Signal Processing library for audio applications**
 
 zdsp provides high-performance, real-time audio processing components for effects, filters, analysis, and synthesis. Built with Zig for maximum performance and memory safety.
